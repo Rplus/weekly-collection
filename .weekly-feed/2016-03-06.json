@@ -1,0 +1,757 @@
+[
+  {
+    "shares": {
+      "count": 149
+    },
+    "created_time": "2016-03-07T14:41:24+0000",
+    "updated_time": "2016-03-09T04:26:18+0000",
+    "from": {
+      "name": "林靜君",
+      "id": "1123047127708817"
+    },
+    "message": "10個基本設計RWD時的注意事項，完全圖解說明，重點寫的很清楚。\n\n大致歸納一下重點為：\n1.排版越簡單越好(DIV不要搞得太複雜，拿掉inline styles)\n2.使用media queries來判別不同的裝置的寬度\n3.定義好不同解析度的分界點\n4.排版彈性化(使用grid system, 寬度要使用百分比計算)\n5.不同裝置使用不同大小的圖片(同一張圖切三種不同大小)\n6.善用min-跟max-來控制layout\n7.元素盡量使用相對比例\n8.當切換到手機版本時，layout以一欄式設計為主\n9.盡量精簡手機版內容，只留下最重要的\n10.使用實體裝置測試網站(因為電腦模擬有時候不是很準確)",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://www.downgraf.com/inspiration/basic-tips-about-responsive-design/",
+    "name": "10 Basic Tips About Responsive Design - Infographic",
+    "description": "Responsive web design could be a specific sort of internet development and design that utilizes CSS3 with fluid proportion-based grids to adapt the layout of a design to viewing setting....",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQCW54GyP1p-OxcO&w=130&h=130&url=http%3A%2F%2Fdowngraf.com%2Fwp-content%2Fuploads%2F2013%2F01%2Fbasic-tips-about-responsive-design.jpg&cfs=1",
+    "id": "521085554595481_957059920998040",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 347
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 5
+      }
+    },
+    "power": [
+      652.5,
+      347,
+      5,
+      149
+    ],
+    "order": 1
+  },
+  {
+    "shares": {
+      "count": 93
+    },
+    "created_time": "2016-03-06T13:04:18+0000",
+    "updated_time": "2016-03-06T19:13:52+0000",
+    "from": {
+      "name": "林靜君",
+      "id": "1123047127708817"
+    },
+    "message": "超好用的UI設計參考大全",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://collectui.com/designs",
+    "name": "Collect UI",
+    "description": "Collect UI",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQDUVZZOxBOZqSUi&w=130&h=130&url=http%3A%2F%2Fcollectui.com%2Fimg%2Ffacebook-share.png&cfs=1",
+    "id": "521085554595481_956556064381759",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 237
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 1
+      }
+    },
+    "power": [
+      424.5,
+      237,
+      1,
+      93
+    ],
+    "order": 2
+  },
+  {
+    "shares": {
+      "count": 79
+    },
+    "created_time": "2016-03-10T10:44:00+0000",
+    "updated_time": "2016-03-11T12:57:10+0000",
+    "from": {
+      "name": "林靜君",
+      "id": "1123047127708817"
+    },
+    "message": "關於Web Animation的學習地圖。\n這篇很值得收錄，不僅把不同技術的套件做整理，還有提示製作動畫的步驟，且在圖表中列出的套件連結甚至是教學文章連結都整理在下方。",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://www.awwwards.com/web-animation-infographics-a-map-of-the-best-animation-libraries-for-javascript-and-css3-plus-performance-tips.html",
+    "name": "Web Animation Infographics: A Map of the Best Animation Libraries for JavaScript and CSS3 plus...",
+    "description": "Today we have decided to showcase a 'map' of the current state of web animation by compiling highly regarded libraries, frameworks and plugins based on their versatility...",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQC0iM1FqyYZIjek&w=130&h=130&url=http%3A%2F%2Fwww.awwwards.com%2Fawards%2Fimages%2F2014%2F04%2Fweb-animation-libraries-cover3.jpg&cfs=1",
+    "id": "521085554595481_958494437521255",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 219
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 5
+      }
+    },
+    "power": [
+      384.5,
+      219,
+      5,
+      79
+    ],
+    "order": 3
+  },
+  {
+    "shares": {
+      "count": 42
+    },
+    "created_time": "2016-03-08T14:48:36+0000",
+    "updated_time": "2016-03-08T15:38:15+0000",
+    "from": {
+      "name": "林靜君",
+      "id": "1123047127708817"
+    },
+    "message": "Menu App Interface，個人很喜歡這個風格設計，而且整個互動效果跟使用性也做得不錯，(看到這個範例腦中馬上出現一套數位化點餐流程)。\n\n不知道有沒有人做過類似的東西?\n\n這一篇有完整原始碼供大家參考，有興趣的可以跟著做看看，分享一下心得喔!",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://fribly.com/2015/09/22/menu-app-interface/",
+    "name": "Menu App Interface - Coding - Fribly",
+    "description": "Here's a menu app interface coded in HTML/CSS and JS based on a Dribbble shot. Coded by Manar Kamel - posted under Coding tagged with: App, Code, CSS, CSS3, HTML, HTML5, Javascript, jQuery, Menu, Navigation, Resource, Snippets, Web Design, Web Development by Fribly Editorial",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQCyWGYqxBiReyUK&w=130&h=130&url=http%3A%2F%2Ffribly.com%2Fwp-content%2Fuploads%2F2015%2F09%2FMenu-App-Interface.gif&cfs=1",
+    "id": "521085554595481_957551430948889",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 175
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 1
+      }
+    },
+    "power": [
+      260.5,
+      175,
+      1,
+      42
+    ],
+    "order": 4
+  },
+  {
+    "shares": {
+      "count": 29
+    },
+    "created_time": "2016-03-08T08:52:32+0000",
+    "updated_time": "2016-03-08T10:12:21+0000",
+    "from": {
+      "name": "Hsin-Han Wu",
+      "id": "882043825167698"
+    },
+    "message": "Google Fonts: Early Access 終於放上思源黑體了！？\n\n@import url(http://fonts.googleapis.com/earlyaccess/notosanstc.css);\nfont-family: 'Noto Sans TC', sans-serif;",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://free.com.tw/google-fonts-noto-sans-cjk-webfont/?utm_content=buffer793a3&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer",
+    "name": "Google Fonts 推出「思源黑體」中文網頁字型，改善網頁文字顯示效果",
+    "description": "思源黑體是 Adobe 和 Google 共同開發的開放原始碼字型，發佈時就已支援繁體中文、簡體中文、日文及韓文，因此深受許多使用者喜愛（尤其中文字型在製作難度上很高，除了付費項目外幾乎 沒有更多選擇），其開源特性使更多字型同好得以就細部進行調整，重新設計出更不一樣的字型，例如：思源真黑體、思源柔黑體等等。",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQB5yAfYb6grxmw1&w=130&h=130&url=https%3A%2F%2Fcdn.free.com.tw%2Fblog%2Fwp-content%2Fuploads%2F2016%2F03%2FGoogle-Fonts-%E6%8E%A8%E5%87%BA%E3%80%8C%E6%80%9D%E6%BA%90%E9%BB%91%E9%AB%94%E3%80%8D%E4%B8%AD%E6%96%87%E7%B6%B2%E9%A0%81%E5%AD%97%E5%9E%8B%EF%BC%8C%E6%94%B9%E5%96%84%E7%B6%B2%E9%A0%81%E6%96%87%E5%AD%97%E9%A1%AF%E7%A4%BA%E6%95%88%E6%9E%9C13933900.jpg&cfs=1",
+    "id": "521085554595481_957430984294267",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 163
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 11
+      }
+    },
+    "power": [
+      237.5,
+      163,
+      11,
+      29
+    ],
+    "order": 5
+  },
+  {
+    "shares": {
+      "count": 31
+    },
+    "created_time": "2016-03-11T02:21:56+0000",
+    "updated_time": "2016-03-11T12:24:03+0000",
+    "from": {
+      "name": "陳聖博",
+      "id": "10206381218146197"
+    },
+    "message": "有在接觸 D3 的朋友請參考",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://blog.infographics.tw/2016/02/d3-js-4-0-preview/",
+    "name": "D3.js 重大更新！ 4.0 版新鮮功能摘要整理",
+    "description": "正在學 D3.js 嗎？那錯過這篇你就糗大了！大約在兩個多月前， D3.js 作者 Michael Bostock 宣佈下一 ....",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQClVfBY5-1xkIDV&w=130&h=130&url=http%3A%2F%2Fblog.infographics.tw%2Fwp-content%2Fuploads%2F2016%2F02%2Fcover-1.jpg&cfs=1",
+    "id": "521085554595481_958810804156285",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 110
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 1
+      }
+    },
+    "power": [
+      173.5,
+      110,
+      1,
+      31
+    ],
+    "order": 6
+  },
+  {
+    "shares": {
+      "count": 30
+    },
+    "created_time": "2016-03-10T11:22:54+0000",
+    "updated_time": "2016-03-11T00:18:38+0000",
+    "from": {
+      "name": "Kim Wong",
+      "id": "10152364923244567"
+    },
+    "message": "各位開始用PostCSS在專案上了嗎？實際上有啥差別？",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://inder.com.tw/什麼是postcss/",
+    "name": "什麼是PostCSS – INDER",
+    "description": "PostCSS賦予CSS新的意義，你現在可以直接寫CSS，並可以擴充任何你想要的功能，如變數、函數、演算等等 … Continued",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQBretVjLJuLHmIB&w=130&h=130&url=http%3A%2F%2Finder.com.tw%2Fwp-content%2Fuploads%2F2016%2F03%2Fpostcss-1.jpg&cfs=1",
+    "id": "521085554595481_958503967520302",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 93
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 13
+      }
+    },
+    "power": [
+      172.5,
+      93,
+      13,
+      30
+    ],
+    "order": 7
+  },
+  {
+    "shares": {
+      "count": 31
+    },
+    "created_time": "2016-03-09T13:01:32+0000",
+    "updated_time": "2016-03-10T08:21:12+0000",
+    "from": {
+      "name": "林靜君",
+      "id": "1123047127708817"
+    },
+    "message": "Node也可以做出API，真的是太強大了。\n不過步驟還真不少，需要耐心研究。",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://scotch.io/tutorials/build-a-restful-api-using-node-and-express-4",
+    "name": "Build a RESTful API Using Node and Express 4",
+    "description": "With the release of Express 4.0 just a...",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQB_VAOCPKvSrop6&w=130&h=130&url=https%3A%2F%2Fscotch.io%2Fwp-content%2Fuploads%2F2014%2F04%2Frestful-api-node-express-4-router.jpg&cfs=1",
+    "id": "521085554595481_958008887569810",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 84
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 11
+      }
+    },
+    "power": [
+      162.5,
+      84,
+      11,
+      31
+    ],
+    "order": 8
+  },
+  {
+    "shares": {
+      "count": 22
+    },
+    "created_time": "2016-03-10T09:55:15+0000",
+    "updated_time": "2016-03-13T02:07:26+0000",
+    "from": {
+      "name": "黃保翕",
+      "id": "10206611907686693"
+    },
+    "message": "以前我們要用手機控制藍芽訊號，都必須撰寫原生 App 才做得到，最近 Opera 開發團隊發布一份 Web Bluetooth API 規格，讓你未來可以透過 JavaScript 就可以控制任意藍芽裝置，底下文章有範例程式與示範影片 (用手機上的瀏覽器控制 BB-8 機器人)，蠻有趣的！ :) (y)\n.\n目前 Web Bluetooth API 已經實作在 Opera for Android beta 瀏覽器上，有興趣想搶先體驗的可以到這裡下載：\nhttps://play.google.com/store/apps/details?id=com.opera.browser.beta\n.\n不過目前這份規格還在草案階段，大家也都還可以提出回饋意見，讓我們拭目以待！ ;)\n.\nWeb Bluetooth\nhttps://webbluetoothcg.github.io/web-bluetooth/\n.\nIssues · WebBluetoothCG/web-bluetooth\nhttps://github.com/WebBluetoothCG/web-bluetooth/issues",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://opr.as/1nyGJoW",
+    "name": "Dev.Opera — An introduction to the Web Bluetooth API",
+    "description": "An introduction to the Web Bluetooth APIIntroductionThere is an explosion of electronic devices nowadays, and with many of them, it’s possible to interact with them via Bluetooth Low Energy, or BLE. However, installing a separate app for interacting with every single bluetooth gadget is impractical.…",
+    "id": "521085554595481_958480490855983",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 108
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 6
+      }
+    },
+    "power": [
+      161,
+      108,
+      6,
+      22
+    ],
+    "order": 9
+  },
+  {
+    "shares": {
+      "count": 19
+    },
+    "created_time": "2016-03-12T03:57:34+0000",
+    "updated_time": "2016-03-12T04:10:29+0000",
+    "from": {
+      "name": "Kim Wong",
+      "id": "10152364923244567"
+    },
+    "message": "死圖（broken image）一個簡單的處理筆記",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://inder.com.tw/死圖可以怎處理/",
+    "name": "死圖可以怎處理 – INDER",
+    "description": "死圖是個很糟糕的用戶體驗。 要了解這個首先要快速的理解一下，css型態主要有五種 Block Inline L … Continued",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQA6hz7MRuC8XQEb&w=130&h=130&url=http%3A%2F%2Finder.com.tw%2Fwp-content%2Fuploads%2F2016%2F03%2FScreen-Shot-2016-03-12-at-1.33.46-AM.png&cfs=1",
+    "id": "521085554595481_959391474098218",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 117
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 1
+      }
+    },
+    "power": [
+      156.5,
+      117,
+      1,
+      19
+    ],
+    "order": 10
+  },
+  {
+    "shares": {
+      "count": 28
+    },
+    "created_time": "2016-03-11T08:46:16+0000",
+    "updated_time": "2016-03-12T16:13:14+0000",
+    "from": {
+      "name": "Jovi Tsai",
+      "id": "10200621292611341"
+    },
+    "message": "一直以來都在使用lorempixel的假圖產生器，\n但最近變的有點慢，所以又找了兩個，分享給大家。\n\n三款好用的假圖產生器\n加到snippet吧，加到snippet吧，加到snippet吧…XD\n\n//單純假圖，可加文字\nhttp://fakeimg.pl/\n\n//質感高，有簡單濾鏡\nhttps://unsplash.it/\n\n//可以選擇圖檔主題 - 最近變的有點慢\nhttp://lorempixel.com/",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://fakeimg.pl/",
+    "name": "Fake images please?",
+    "description": "Fakeimg.pl is a little tool that generates images with an URL. Choose the size, the colors, even the text. Oh… and it’s free.",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQCYjW6EBFXC20vT&w=130&h=130&url=http%3A%2F%2Ffakeimg.pl%2F439x320%2F282828%2Feae0d0%2F&cfs=1",
+    "id": "521085554595481_958935064143859",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 87
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 9
+      }
+    },
+    "power": [
+      156.5,
+      87,
+      9,
+      28
+    ],
+    "order": 11
+  },
+  {
+    "shares": {
+      "count": 32
+    },
+    "created_time": "2016-03-09T11:37:27+0000",
+    "updated_time": "2016-03-10T03:40:23+0000",
+    "from": {
+      "name": "MaoYang Chien",
+      "id": "10153285570810982"
+    },
+    "message": "這篇文章是一家歐洲專門在接App的公司分享他們的接案經驗, 也許您對敏捷這些流程不是很熟悉, 但是看一下他們將接案分成幾個階段, 裡面有顧問階段, UX階段然後UI階段... , MLSdev的經驗是..如果您的UX做好了, UI就不會超出預算. 在國內的接案有這麼健康嗎? 最後不是Schedule落後, 不然就是無法結案-一堆變更設計(尤其是UI的部分), 看一下這家公司的經驗分享, 希望這篇可以改善一下國內接案亂喊價格, 亂壓Schedule的風氣, 還有UX/UI經常混為一談 :P\n\n",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://softnshare.wordpress.com/2016/03/09/外包應該怎麼做-從app估價的最佳實作省思/",
+    "name": "外包應該怎麼做? 從\"APP估價的最佳實作\"省思",
+    "description": "前幾天看到一篇Best Practices for Estimating App Cost  (APP估價的最…",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQA_vefZMKct7fLU&w=130&h=130&url=https%3A%2F%2Fsoftnshare.files.wordpress.com%2F2016%2F02%2Fpablo.png&cfs=1",
+    "id": "521085554595481_957967674240598",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 74
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 10
+      }
+    },
+    "power": [
+      153,
+      74,
+      10,
+      32
+    ],
+    "order": 12
+  },
+  {
+    "shares": {
+      "count": 11
+    },
+    "created_time": "2016-03-10T06:47:08+0000",
+    "updated_time": "2016-03-16T05:01:41+0000",
+    "from": {
+      "name": "Famou Sky",
+      "id": "1538047563103756"
+    },
+    "message": "☕ + 💻 anyone? List of best cafés to work from in Taipei is here 🇹🇼\nAdded more pictures and places. Any recommendations what other places qualify to be added?",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://voice.focusasia.xyz/best-coffee-shops-to-work-from-in-taipei-a6fa8ab76096#.c3dm35fme",
+    "name": "Best cafés to work from in Taipei ☕ — Focus Asia",
+    "description": "Through my search to find the best places to work remotely, I have visited over 100+ cafés in Taipei alone. I decided I …",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQCGNDZ88q61GxXK&w=130&h=130&url=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F800%2F1%2AwmxILNWqnXY0gH20IIHCJg.jpeg&cfs=1",
+    "id": "521085554595481_958428534194512",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 52
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 13
+      }
+    },
+    "power": [
+      93.5,
+      52,
+      13,
+      11
+    ],
+    "order": 13
+  },
+  {
+    "shares": {
+      "count": 8
+    },
+    "created_time": "2016-03-12T04:37:19+0000",
+    "updated_time": "2016-03-12T15:08:46+0000",
+    "from": {
+      "name": "MaoYang Chien",
+      "id": "10153285570810982"
+    },
+    "message": "集界科技提供非常優渥的薪資與工作環境, 有興趣參考看看\n\n",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://softnshare.wordpress.com/portfolio/senior-uxui-designer/",
+    "name": "Senior UX/UI Designer",
+    "description": "關於我們 集界科技(tmot)隸屬於正美集團，專注於網路開發，O2O營銷模式(Online To Offlin…",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQCmeDEIQ_i_SssI&w=130&h=130&url=https%3A%2F%2Fsoftnshare.files.wordpress.com%2F2016%2F03%2Ftmot.png&cfs=1&l",
+    "id": "521085554595481_959403964096969",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 31
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 28
+      }
+    },
+    "power": [
+      89,
+      31,
+      28,
+      8
+    ],
+    "order": 14
+  },
+  {
+    "shares": {
+      "count": 16
+    },
+    "created_time": "2016-03-08T15:00:44+0000",
+    "updated_time": "2016-03-08T15:27:24+0000",
+    "from": {
+      "name": "MaoYang Chien",
+      "id": "10153285570810982"
+    },
+    "message": "今天在Mobile原型製作工具業界有一個很大的消息買Flinto送Sketch, 現在原型製作工具真是競爭 :P , 現在介紹是另一種, 就是之前分享的那篇文章學習Swift的100天-->https://goo.gl/iW1dgM 裡面有提到的Framer 他並分享藉由Framer這樣的工具啟發他如何寫程式(他原本是設計師)\nFlinto跟Framer差別? , 可以參考看看國外的比較文章https://goo.gl/KZDx1T, 這篇文章有提到學習門檻比較高,因為要會寫CoffeeScript 但是在原型製作階段可以做到比較精細. 對於原型製作工具有興趣可以參考一下\n\n",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://softnshare.wordpress.com/工具/framer/",
+    "name": "Framer",
+    "description": "Discover the power of code in Design 下載Framer評估版本 使用Fra…",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQCf--BoAK_JcmIk&w=130&h=130&url=https%3A%2F%2Fsoftnshare.files.wordpress.com%2F2016%2F03%2Fscreenshot-1080.png&cfs=1",
+    "id": "521085554595481_957555430948489",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 54
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 2
+      }
+    },
+    "power": [
+      89,
+      54,
+      2,
+      16
+    ],
+    "order": 15
+  },
+  {
+    "shares": {
+      "count": 8
+    },
+    "created_time": "2016-03-06T15:19:42+0000",
+    "updated_time": "2016-03-07T04:57:03+0000",
+    "from": {
+      "name": "MaoYang Chien",
+      "id": "10153285570810982"
+    },
+    "message": "來自矽谷的新創公司, 有興趣可以參考一下\n\n",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://softnshare.wordpress.com/portfolio/web-engineer/",
+    "name": "Web Engineer",
+    "description": "關於我們 我們是來自Stanford大學的矽谷新創團隊-Omlet，目前成員分佈在美國、台灣、中國。創辦人Mo…",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQBvmnqquuhfF1NT&w=130&h=130&url=https%3A%2F%2Fsoftnshare.files.wordpress.com%2F2016%2F02%2Fomlet.png&cfs=1",
+    "id": "521085554595481_956613701042662",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 53
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 8
+      }
+    },
+    "power": [
+      81,
+      53,
+      8,
+      8
+    ],
+    "order": 16
+  },
+  {
+    "shares": {
+      "count": 8
+    },
+    "created_time": "2016-03-06T07:47:02+0000",
+    "updated_time": "2016-03-06T07:47:02+0000",
+    "from": {
+      "name": "Kalun Lau",
+      "id": "10205620540426341"
+    },
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://design.google.com/resizer/#",
+    "name": "Resizer - Google Design",
+    "description": "An interactive viewer to see and test how digital products respond to material design breakpoints across desktop, mobile and tablet.",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQBdHxXVqHerGC0G&w=130&h=130&url=https%3A%2F%2Fdesign.google.com%2Fresizer%2Fimages%2Fshare.png&cfs=1",
+    "id": "521085554595481_956470874390278",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 30
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 0
+      }
+    },
+    "power": [
+      46,
+      30,
+      0,
+      8
+    ],
+    "order": 17
+  },
+  {
+    "shares": {
+      "count": 3
+    },
+    "created_time": "2016-03-08T14:26:48+0000",
+    "updated_time": "2016-03-08T15:01:45+0000",
+    "from": {
+      "name": "靜如徐",
+      "id": "1056989467655770"
+    },
+    "message": "想請教一個網頁特效的問題\n這個Parallax Scrolling Page 畫面的車子是怎麼控制他的？\n感覺它會隨著畫面轉向跟絕對位置漸漸往上\n好像又不是定位在某個位置\n再麻煩各位了 \n\n",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://citipark.co.uk/citipark/braking-badly/",
+    "name": "Braking Badly",
+    "description": "Put your skills to the test and play Braking Badly!",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQAHFeSz_ruf-CJh&w=130&h=130&url=https%3A%2F%2Fcitipark.co.uk%2Fcitipark%2Fbraking-badly%2Fog-image.png&cfs=1",
+    "id": "521085554595481_957543557616343",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 32
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 3
+      }
+    },
+    "power": [
+      42.5,
+      32,
+      3,
+      3
+    ],
+    "order": 18
+  },
+  {
+    "shares": {
+      "count": 5
+    },
+    "created_time": "2016-03-12T16:03:32+0000",
+    "updated_time": "2016-03-13T00:34:02+0000",
+    "from": {
+      "name": "YuTin Liu",
+      "id": "10203040395925690"
+    },
+    "message": "由於「2016 第五屆HTML5峰會@台灣．台北」持續有網友寫信來詢問是否有更多的票卷可以釋出，經與主辦方討論後。\n2016 FrontEnd Developers Taiwan 這邊將於3/14(一)中午再次釋出50張票（最後一次了，再下去場地會塞不下）。\n另外有Mobile行銷案例, HTML5遊戲案例, 或者前端的開源專案（不知為何主辦對開源文化有興趣）貢獻者，歡迎私訊我取得邀請票的邀請碼 （喵\n\n報名網址：",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://f2e.kktix.cc/events/2015html5",
+    "name": "2016 第五屆HTML5峰會@台灣．台北",
+    "description": "由中國最大的HTML5社區--HTML5夢工廠舉辦的“使用iWeb峰會暨HTML5峰會”，官方活動資訊：http://2016.html5dw.com/taipei?lang=tw",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQBTWgaEOIpRsWmY&w=130&h=130&url=https%3A%2F%2Ft.kfs.io%2Fupload_images%2F47965%2FScreen_Shot_2016-02-24_at_12.13.07_PM_original.png&cfs=1",
+    "id": "521085554595481_959684590735573",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 22
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 3
+      }
+    },
+    "power": [
+      36.5,
+      22,
+      3,
+      5
+    ],
+    "order": 19
+  },
+  {
+    "created_time": "2016-03-07T03:15:59+0000",
+    "updated_time": "2016-03-07T10:57:22+0000",
+    "from": {
+      "name": "郭信義",
+      "id": "441800186019995"
+    },
+    "message": "大家好，\n\n在下服務的公司在新竹清大育成中心剛成立一個研發部門，目前有一「前端工程師」職缺：\n\n工作地點：新竹市清華大學校內\n薪資範圍: 40000~60000/月(低於您的期望？可面議) \n條件要求：簡單講，如果您可以使用 HTML5, CSS3 跟 JavaScript (任一框架)獨立開發一個可離線使用的筆記本程式，竭誠歡迎您來應徵。\n\n此部門特有制度：\n- 配發一台 MacBook Pro 筆電作為開發用途(工讀生例外)。\n- 每週有一天可以選擇在其他地點上班(經過考核確認可獨立作業者)。\n\n關於此職務的其它要求以及公司的制度請參考104網站。\n\n",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://www.104.com.tw/job/?jobno=4s8gy&jobsource=checkc",
+    "name": "前端工程師_伊凡達科技股份有限公司 - 104人力銀行",
+    "description": "1. JavaScript 桌面與行動應用開發。",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQD-Fc1JYi3c4A5Q&w=130&h=130&url=http%3A%2F%2Fwww.104.com.tw%2Fimg%2Ffb_155x155_jb.gif&cfs=1",
+    "id": "521085554595481_956859824351383",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 32
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 3
+      }
+    },
+    "power": [
+      36.5,
+      32,
+      3,
+      0
+    ],
+    "order": 20
+  }
+]
