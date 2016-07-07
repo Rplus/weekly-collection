@@ -8,6 +8,7 @@
     "jekyllServe": "jekyll serve --port 9527",
     "browserSync": "browser-sync start --proxy='http://localhost:9527/weekly-collection/' --startPath _site --files='_site/index.html, _site/*.css' --no-open --reload-delay=1000",
     "pullFeeds": "node .weekly-feed/getData/pullFeeds.js",
+    "postComment": "node .weekly-feed/getData/postComment.js",
     "calcTop10": "node .weekly-feed/getData/calcTop10.js",
     "queryVote": "node .weekly-feed/getData/queryVote.js",
     "css": "postcss --no-map -c postcssconfig.json",
@@ -28,6 +29,7 @@
   "devDependencies": {
     "autoprefixer": "^6.3.4",
     "browser-sync": "^2.11.2",
+    "confirm-simple": "^1.0.3",
     "css-mqpacker": "^4.0.1",
     "gh-pages": "^0.11.0",
     "gulp": "^3.9.1",
@@ -36,6 +38,7 @@
     "mz": "^2.4.0",
     "postcss-cli": "^2.5.1",
     "postcss-csso": "^1.0.1",
+    "prompt": "^1.0.0",
     "request": "^2.72.0",
     "yargs": "^4.7.1"
   }
