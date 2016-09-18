@@ -1,0 +1,703 @@
+[
+  {
+    "created_time": "2016-09-04T15:48:24+0000",
+    "updated_time": "2016-09-06T00:01:29+0000",
+    "from": {
+      "name": "Pei-Chi Wu",
+      "id": "970558732969985"
+    },
+    "message": "大家好，第一次在這裡發文，\n如果內文有任何不妥煩請告知，謝謝 :D\n\n昨天心血來潮刻了自家寵物-白頭翁\n(身為前端就應該要用網頁刻一下愛鳥啊!)\nhttp://codepen.io/thisis577/full/BzZYJN/\n(建議使用 Chrome 瀏覽，我沒有做相容性測試><)\n\n用的只是簡單的 border-radius 跟一點點小動畫拼湊出來的，跟版上的大神們相比技術門檻應該算是很低XD \n因為刻得很隨意，沒有把它最佳化（看那一大堆重複的 js 就知道了XD）這部分就請不要鞭我了(跪\n\n在刻的過程有遇到兩個問題想請教：\n\n1. 如果一個元素本身有 transform: rotate(10deg)，在將它套上會運用到 transform 的 animtation 時，只能在 keyframes 內覆寫一次 rotate(10deg) 後面再加上我希望做出的動畫效果嗎？\nex. transform: rotate(10deg) translate(10%, 20%) \n有沒有其他可以不需要覆寫又能保留原本 rotate 效果的方法呢？(每次複製貼上都覺得好笨阿...)\n\n2. 大量運用 position: absolute 會造成效能低落嗎？(我沒有用在 animation, 就只是單純很多部位不好排我就直接用上這個屬性)\n\n先謝謝各位了！（鞠躬\n---\n如果對這個作品的一點點技術心得有興趣的話可以看一下我的 blog:\nhttps://thisis577.github.io/2016/09/04/CSS-chinese-bulbul/",
+    "id": "521085554595481_1066381096732588",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 367
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 27
+      }
+    },
+    "power": [
+      407.5,
+      367,
+      27,
+      0
+    ],
+    "order": 1
+  },
+  {
+    "shares": {
+      "count": 22
+    },
+    "created_time": "2016-09-09T02:08:38+0000",
+    "updated_time": "2016-09-10T04:23:47+0000",
+    "from": {
+      "name": "Po-Jung Chen",
+      "id": "559767417454613"
+    },
+    "message": "多一個空格、少一個空格、多一個逗號，都會導致版面發生不同的變化，一起來看多重選擇器的差異吧！",
+    "link": "https://pjchender.blogspot.tw/2015/03/cssmultiple-selectorsspace.html",
+    "name": "PJCHENder網頁前端資源站",
+    "description": "【CSS選擇器-傻傻分不清楚】\n> 很多人在初學 CSS 的時候，看到多重選擇器就霧煞煞。\n> 　　\n> 你知道當我們同時選擇兩個 class 名稱時，中間有空格、沒空格，或者使用逗號都代表不同的意義嗎？\n> 　　\n> 一起來打通 CSS3 選擇器的任督二脈，搞懂這之間的差異吧！",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQDbuZ_tSyBYwRWm&w=130&h=130&url=https%3A%2F%2F1.bp.blogspot.com%2F-zNKTI_1ENqY%2FV9Cvoa2cWTI%2FAAAAAAAAops%2FKv9bGZPALj0lMyN4zw3RJZHx7Yk2aua6gCLcB%2Fw1200-h630-p-nu%2FCSS%2525E9%252581%2525B8%2525E6%252593%252587%2525E5%252599%2525A8%2525E5%252582%2525BB%2525E5%252582%2525BB%2525E5%252588%252586%2525E4%2525B8%25258D%2525E6%2525B8%252585%2525E6%2525A5%25259A.jpg&cfs=1",
+    "id": "521085554595481_1069797166390981",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 117
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 7
+      }
+    },
+    "power": [
+      171.5,
+      117,
+      7,
+      22
+    ],
+    "order": 2
+  },
+  {
+    "shares": {
+      "count": 5
+    },
+    "created_time": "2016-09-05T03:33:06+0000",
+    "updated_time": "2016-09-05T17:11:23+0000",
+    "from": {
+      "name": "Kuro Hsu",
+      "id": "10201028914003467"
+    },
+    "message": "[活動宣傳] 本月底小弟會在此活動與另一位專精於 React.js 的講師分享各自在 Vue.js 與 React.js 的開發經驗。無論你對哪套前端框架有興趣，或仍舉棋不定該如何挑選適合的 solution ，都歡迎你帶著問題或心得前來交流。 \n預計中午開放報名。 :)",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://www.accupass.com/event/register/1609010719207252286050",
+    "name": "前端東（React）西（Vue）軍，今晚要點哪一道？-Accupass 活動通",
+    "description": "Vue.js 和 React.js 是近年火紅的兩大 Javascript 前端渲染方案，這次由五倍紅寶石邀請了 Kuro 和 Taian 一起對談，讓大家更了解兩種技術方案的差異以及使用場景。",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQDOuVopvZwvnp4I&w=130&h=130&url=http%3A%2F%2Fimg.accupass.com%2Fuserupload%2F6e729dbf2e8b468180a98296d3cfcac4.jpg&cfs=1",
+    "id": "521085554595481_1066785940025437",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 114
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 9
+      }
+    },
+    "power": [
+      137.5,
+      114,
+      9,
+      5
+    ],
+    "order": 3
+  },
+  {
+    "shares": {
+      "count": 6
+    },
+    "created_time": "2016-09-05T12:02:46+0000",
+    "updated_time": "2016-09-06T13:01:23+0000",
+    "from": {
+      "name": "莊宗憲",
+      "id": "862190120466783"
+    },
+    "message": "分享 Google PageSpeed 有趣小發現\n建議項目出現 「禁止轉譯 CSS 資源」\n\n爬文看到建議，頁面開啟只載入最核心\n使用者第一眼看到會用到的CSS\n然後再用 Ajax 動態載入剩餘的CSS檔案\n就能再加快頁面開啟的速度\n\n不過另一個建議比較方便\n直接把次重要的 CSS link 放在 </html> 後面\n這樣瀏覽器就會在頁面載入完成後\n再載入</html> 後面，次重要的CSS檔案\n\n這樣就能不用Ajax 達到同樣效果\n原以為標準是將 css link 放在 head 裡..\n如果觀念有誤請糾正，感恩！\n\n參考網址\nhttps://developers.google.com/speed/docs/insights/OptimizeCSSDelivery",
+    "id": "521085554595481_1067033480000683",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 90
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 16
+      }
+    },
+    "power": [
+      126,
+      90,
+      16,
+      6
+    ],
+    "order": 4
+  },
+  {
+    "shares": {
+      "count": 16
+    },
+    "created_time": "2016-09-10T16:38:10+0000",
+    "updated_time": "2016-09-11T15:46:29+0000",
+    "from": {
+      "name": "James Liang",
+      "id": "10151995304366957"
+    },
+    "message": "恭喜前端工程師多加一個技能，學會桌面應用程式開發只差一步\n",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://www.youtube.com/watch?v=CR10JLnVEd0&feature=youtu.be",
+    "name": "[主角日常] 網頁開發變成桌面程式開發只差一步你不知道的 nw.js",
+    "description": "前端網頁開發人員真是爽到無極限， nw.js 提供網頁開發變成桌面應用程式開發的捷徑，真是太方便了。趁這個機會大家也可以把 Node.js 學一學杯 ～ 突然覺得自己什麼都能辦到大家是不是這樣想呢？以前最愛的 FLASH 可以 Say Good Bye 了 !!!",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQCRkEOUkT6sNeGW&w=130&h=130&url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FCR10JLnVEd0%2Fmaxresdefault.jpg&cfs=1",
+    "id": "521085554595481_1071002569603774",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 88
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 2
+      }
+    },
+    "power": [
+      123,
+      88,
+      2,
+      16
+    ],
+    "order": 5
+  },
+  {
+    "shares": {
+      "count": 8
+    },
+    "created_time": "2016-09-10T00:18:59+0000",
+    "updated_time": "2016-09-11T15:08:35+0000",
+    "from": {
+      "name": "Fred Lin",
+      "id": "10203797498037037"
+    },
+    "message": "AFrame 0.3 出了, 基於 three.js , 支援 WebVR 1.0, HTC Vive, 還附帶 debug 工具A-Frame Inspector https://aframe.io/blog/aframe-v0.3.0/ 用這個做寶可夢go應該比全自幹容易吧?",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://aframe.io/blog/aframe-v0.3.0/",
+    "name": "A-Frame",
+    "description": "Building Blocks for the VR Web",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQD_pjTUCSKw8lHC&w=130&h=130&url=http%3A%2F%2Faframe.io%2Fimages%2Fcard.png&cfs=1",
+    "id": "521085554595481_1070492549654776",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 55
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 5
+      }
+    },
+    "power": [
+      78.5,
+      55,
+      5,
+      8
+    ],
+    "order": 6
+  },
+  {
+    "shares": {
+      "count": 7
+    },
+    "created_time": "2016-09-09T00:10:35+0000",
+    "updated_time": "2016-09-09T00:10:36+0000",
+    "from": {
+      "name": "廖洧杰",
+      "id": "776166365736344"
+    },
+    "message": "以前沒用 RSS 時追蹤技術文章都很費力，\n直到使用 feedly 才完全解決我的困擾，\n讓我在下班搭捷運去學校教課的空檔，\n使用手機得知天下事 XD\n　\n所以在這向大家推薦這個服務，\n也釋出我訂閱的內容讓大家參考，\n個人的比重是前端8成、UI 2成，\n內容不乏是國內外的前端、UI 部落客與官方網站。\n線上分享：http://feedly.com/gonsakon\n載點下載：https://goo.gl/YXru6s\n--\n另外也向大家推薦國內的技術週刊，\n除了相當用心經營外，技術含金量也非常高哩！\n　\n碼天狗週刊：http://goo.gl/TQ8WIv\nTechBridge：http://goo.gl/fnVGA7\nWeekly Collection @F2ETW：http://goo.gl/IgWcJ2",
+    "link": "https://www.facebook.com/hexschool/photos/a.683680251781291.1073741841.608977889251528/683683945114255/?type=3",
+    "name": "六角學院",
+    "description": "六角學院校長特別釋出私藏已久的前端工程師必訂閱100個 RSS 訂閱內容，大家快來挖寶唷!!!\n> 參觀校長私藏：http://feedly.com/gonsakon\n> 校長私藏載點：https://goo.gl/YXru6s\n> feedly 官網：http://www.feedly.com/\n> 　\n> PS：私藏載點可到 feedly 註冊後，瀏覽左側的 Organize sources，\n> 點選下方 import OPML 就可以在自己的 feedly 載入訂閱內容唷\n> 　\n> ---- 我是分隔線 ----\n> 　\n> 今天要來訴說個不為人知的故事，\n> 六角校長有個蓋世本領，就是足不出戶能知天下事，\n> 長篇大論最新的前端技術，或新穎的流行專業用語\n> 每次聽心裡都在想：奇怪！這傢伙不是每天都坐在我前面嗎？怎麼搞得\"上通天文下知地理學貫古今中外知書達禮內外兼備\"？\n> 本人天不怕地不怕就怕沒靈感和素材，明明很努力在爬文，為什麼還是比慢一步得知新資訊咧？\n> 你當真以為每天都有這麼多話好說嗎？(擦淚\n> 　\n> 那天偷偷從他座位後面繞過，看到了這令人震懾的畫面！\n> 原來他每天來學校第一步就是開啟 \"feedly\" ，配著起司蛋餅和奶茶\n> 由於事跡敗露(？)  決定公佈養成校長蓋世本領的「功臣」!!!!",
+    "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/14202694_683683945114255_2389871734700977508_n.png?oh=a9bac3e05ba3cb90b8e1e6663f088fe1&oe=5879C4F0",
+    "id": "521085554595481_1069727776397920",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 56
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 0
+      }
+    },
+    "power": [
+      70,
+      56,
+      0,
+      7
+    ],
+    "order": 7
+  },
+  {
+    "shares": {
+      "count": 9
+    },
+    "created_time": "2016-09-06T15:37:53+0000",
+    "updated_time": "2016-09-07T02:07:16+0000",
+    "from": {
+      "name": "鍾維聖",
+      "id": "762380337116605"
+    },
+    "message": "分享朋友收到的分享的分享 (?\n似乎是日本武蔵野美術大学學生的畢業製作\nhttp://foxcodex.html.xdomain.jp/index.html\n\n好像有點帥",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://foxcodex.html.xdomain.jp/index.html",
+    "name": "Motion Periodic Table | モーショングラフィックスの周期表",
+    "description": "モーショングラフィックスの要素を元素周期表に見立てて配置。エフェクトの周期表で動きのデザインを研究する。Motiongraphics & Periodic Table. Learning Motion design improve your skills",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQCfxujCN8yfoHEo&w=130&h=130&url=http%3A%2F%2Ffoxcodex.html.xdomain.jp%2Fgif%2FLoad002.gif&cfs=1",
+    "id": "521085554595481_1067871556583542",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 34
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 7
+      }
+    },
+    "power": [
+      62.5,
+      34,
+      7,
+      9
+    ],
+    "order": 8
+  },
+  {
+    "shares": {
+      "count": 6
+    },
+    "created_time": "2016-09-07T00:28:08+0000",
+    "updated_time": "2016-09-07T00:29:00+0000",
+    "from": {
+      "name": "Rplus Chen",
+      "id": "697526476981805"
+    },
+    "link": "https://t.co/Nh66YzsCGW",
+    "name": "Rplus",
+    "description": "對 3D CSS 有興趣者可以觀摩一下這個有趣的 codepen 唷~\n> 作者利用巧妙的角度實現了著名的視覺錯覺：Impossible Staircase\n> \n> 他在這看似不可能的樓梯中加入了一道便橋\n> 並以旋轉視角將便橋隱藏\n> \n> 很有趣的視錯覺\n> 3D visual illusion\n> 視覺處理地很棒！ \n> \n> Impossible Staircase\n> by Jon Kantner 2016-08-31\n> http://codepen.io/jkantner/pen/vXBPLV\n> #f2etw\n> \n> src: https://t.co/zi9xEaOtqS\n> tw: https://twitter.com/RplusTW/status/773308741617713152",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQAtXQZJ8AkXqhi3&w=130&h=130&url=http%3A%2F%2Fcodepen.io%2Fjkantner%2Fpen%2FvXBPLV%2Fimage%2Flarge.png&cfs=1",
+    "id": "521085554595481_1068184486552249",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 39
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 1
+      }
+    },
+    "power": [
+      52.5,
+      39,
+      1,
+      6
+    ],
+    "order": 9
+  },
+  {
+    "shares": {
+      "count": 1
+    },
+    "created_time": "2016-09-07T09:22:28+0000",
+    "updated_time": "2016-09-08T04:37:10+0000",
+    "from": {
+      "name": "吳政賢",
+      "id": "905090839504259"
+    },
+    "message": "今天的筆記，利用 Google 試算表來存資料，並且產生出 API url，如此一來大家可以利用 Ajax 的 GET 來取得試算表的資料！剛剛試了一下，我利用 jQuery 的 $.get 可以順利的取得資料，沒有跨網域的問題！\n\n先前我有使用這個方法來取得 GPS 路徑(http://www.haotien.org.tw/GPS/HaotienGPS.html)，跑了一兩天下來算是頗穩定的！也在多國語系的靜態網頁上，利用這個方法實作(新增兩張工作表(中、英)，再利用 JavaScript 來回填網頁內容)。\n\n另外，我記得試算表也可以利用 POST 去存資料，不過就是要利用表單來實作，下次再來寫一篇筆記分想，若是心急想知道的人可以參考此篇：http://www.kamira.co.vu/2012/11/jquery-google-spreadsheet.html\n\n以上，若有問題歡迎留言討論：）\n--",
+    "id": "521085554595481_1068413603196004",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 44
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 4
+      }
+    },
+    "power": [
+      52,
+      44,
+      4,
+      1
+    ],
+    "order": 10
+  },
+  {
+    "shares": {
+      "count": 6
+    },
+    "created_time": "2016-09-08T14:55:18+0000",
+    "updated_time": "2016-09-08T15:15:49+0000",
+    "from": {
+      "name": "YuTin Liu",
+      "id": "1678986882"
+    },
+    "message": "ReactNative仰望星空工作坊Run1\n真的非常抱歉，講者白目遲到 Orz\n影片：https://youtu.be/31DYK9jbGtA\n\n下一次工作坊\n日期暫定：9/22 7pm\n主題：CodePush\n\n習慣用 Redux 的朋友，有參與者推薦 native-starter-kit\nPS. 週五晚上有F2E Meetup九月號",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://hackpad.com/ReactNative-Run-9zHeUKgoPYV",
+    "name": "ReactNative仰望星空工作坊 Run",
+    "description": "Flex Layout *StyleSheet *Platform *Navigators / Modal",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQB-RvGRIu3_9XS0&w=130&h=130&url=https%3A%2F%2Fd29bt26wntaesq.cloudfront.net%2Fstatic%2Fimg%2Fpencil-love.png&cfs=1",
+    "id": "521085554595481_1069424689761562",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 34
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 2
+      }
+    },
+    "power": [
+      49,
+      34,
+      2,
+      6
+    ],
+    "order": 11
+  },
+  {
+    "shares": {
+      "count": 1
+    },
+    "created_time": "2016-09-07T10:16:48+0000",
+    "updated_time": "2016-09-08T14:51:15+0000",
+    "from": {
+      "name": "Yves Liou",
+      "id": "298016913731283"
+    },
+    "message": "想請問有沒有人也做過 Web push\n我是參考 http://tinyurl.com/jhp8vkj 這個網頁做的\n\n不過我想在取得 endpoint 之後把它送到我的 PHP 後端，不直接用網頁提供的 node.js 解決方案\n\n但在執行 curl 後會遇到 error\n錯誤訊息是 http://tinyurl.com/jff7kvw 裡面的 errno 110 - Invalid crypto keys specified\n有人知道問題可能出在哪嗎？",
+    "icon": "https://www.facebook.com/images/icons/photo.gif",
+    "link": "https://www.facebook.com/photo.php?fbid=505116946354611&set=gm.1068439723193392&type=3",
+    "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/14102761_505116946354611_4326343307994321488_n.jpg?oh=b996320729faaf4b10387b4e23aacd62&oe=587B204F",
+    "id": "521085554595481_1068439723193392",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 17
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 19
+      }
+    },
+    "power": [
+      47.5,
+      17,
+      19,
+      1
+    ],
+    "order": 12
+  },
+  {
+    "created_time": "2016-09-08T13:45:13+0000",
+    "updated_time": "2016-09-09T07:07:45+0000",
+    "from": {
+      "name": "林建良",
+      "id": "658526787577828"
+    },
+    "message": "前輩們請教一下他的圖形驗證碼事用FLASH 播放讓視障者可以輸入圖形驗證碼..........問題是我看了他的原碼還是沒有頭緒，想請版上大大門指點\n",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://www.ksml.edu.tw/pmail/Write.aspx?Parser=99%2C8%2C48",
+    "name": "高雄市立圖書館全球資訊網-讀者服務-讀者意見",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQA-fiQcZqTzSctR&w=130&h=130&url=http%3A%2F%2Fwww.ksml.edu.tw%2Fimages%2Ficon_twitter.jpg&cfs=1",
+    "id": "521085554595481_1069384466432251",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 1
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 24
+      }
+    },
+    "power": [
+      37,
+      1,
+      24,
+      0
+    ],
+    "order": 13
+  },
+  {
+    "created_time": "2016-09-09T02:08:49+0000",
+    "updated_time": "2016-09-09T07:57:06+0000",
+    "from": {
+      "name": "廖某允",
+      "id": "750360244985355"
+    },
+    "message": "又來問個簡單的問題，請問一般在寫\n<meta property=\"og:type\" content=\"website\"/>\n這時候尾端的 \"/>\" ，\"斜線/ \" 在HTML5是正規的寫法呢?還是其實移除斜線才算?",
+    "id": "521085554595481_1069797263057638",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 2
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 19
+      }
+    },
+    "power": [
+      30.5,
+      2,
+      19,
+      0
+    ],
+    "order": 14
+  },
+  {
+    "created_time": "2016-09-08T04:24:32+0000",
+    "updated_time": "2016-09-08T06:03:57+0000",
+    "from": {
+      "name": "Wan Ting Chen",
+      "id": "842241469124215"
+    },
+    "message": "想詢問一下WEBPACK的相關問題(我是超菜鳥)，我在JS裡面REQUIRE CSS的檔案，build的時候並沒有出現什麼錯誤，可是CSS的樣式並沒有被載入，不曉得有沒有那個大大知道是為什麼？ \n(我的步驟大概是這樣子)\n1. 安裝css-loader\n2. 在webpack.config.js設定module loader\n3. 在js檔裡面，require('css!./css/main')  << 檔案應該有吃到 (沒吃到會出錯)\n4. css檔裡面，只設定body的background-color樣式\n\n-------------------\n預計開啟網頁的時候，背景會變色才對，不曉得為什麼樣式沒有進去，大概知道狀況的大大們，可以告訴小妹大概的原因嗎？謝謝 > \" <",
+    "id": "521085554595481_1069110029793028",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 1
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 17
+      }
+    },
+    "power": [
+      26.5,
+      1,
+      17,
+      0
+    ],
+    "order": 15
+  },
+  {
+    "created_time": "2016-09-08T05:38:48+0000",
+    "updated_time": "2016-09-09T06:32:07+0000",
+    "from": {
+      "name": "王康文",
+      "id": "10152642891918853"
+    },
+    "message": "http://www.apple.com/tw/mac/ \n\n我在chrome看的時候選單有奇怪的陰影效果，其他人有發現嗎？其他瀏覽器正常\n\n後記：\nCSS backdrop-filter造成的，還在測試階段的屬性竟然直接放到線上版耶",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "http://www.apple.com/tw/mac/",
+    "name": "Mac",
+    "description": "一探究竟 Mac 的世界，看看全新 MacBook、iMac、Mac Pro 以及更多機種，前往 Apple 網站了解、購買及取得支援服務。",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQA7qDQFdWilOyFW&w=130&h=130&url=http%3A%2F%2Fimages.apple.com%2Ftw%2Fmac%2Fhome%2Fimages%2Fsocial%2Fmacbook_mac_og.jpg%3F201608312230&cfs=1",
+    "id": "521085554595481_1069141916456506",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 6
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 13
+      }
+    },
+    "power": [
+      25.5,
+      6,
+      13,
+      0
+    ],
+    "order": 16
+  },
+  {
+    "shares": {
+      "count": 2
+    },
+    "created_time": "2016-09-09T00:16:38+0000",
+    "updated_time": "2016-09-09T12:46:00+0000",
+    "from": {
+      "name": "James Liang",
+      "id": "10151995304366957"
+    },
+    "message": "前端開發的程式設計師們，告訴你們視覺設計師好夥伴，設計網頁特殊字型圖片、網頁SVG文字應用、Banner、EDM、或其他視覺文宣品時，字體設計缺字缺靈感解決好辦法(影片操作方法沒有問題，請確定文字是否能使用在商業用途)\n",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://www.youtube.com/watch?v=1UjJcjzwsOE",
+    "name": "[主角日常] 根本作弊，用不完的平面視覺設計向量字型生成方法",
+    "description": "想要設計DM、海報但字型不夠用怎麼辦，教你怎麼生成想要的向量字型。要有 illustrator 基礎喔～當然本頻道介紹的字型生成器只是茫茫大海其中一個網站而已，可以到其他字型網站找找看想要的文字喔～",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQBHb81qUivPLhSz&w=130&h=130&url=https%3A%2F%2Fi.ytimg.com%2Fvi%2F1UjJcjzwsOE%2Fmaxresdefault.jpg&cfs=1",
+    "id": "521085554595481_1069729873064377",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 8
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 5
+      }
+    },
+    "power": [
+      19.5,
+      8,
+      5,
+      2
+    ],
+    "order": 17
+  },
+  {
+    "created_time": "2016-09-09T07:00:37+0000",
+    "updated_time": "2016-09-09T07:00:37+0000",
+    "from": {
+      "name": "賴俊銘",
+      "id": "505889019513036"
+    },
+    "message": "我在招募前端工程師。月薪50k起跳。保障年薪14個月。工作地點在台北。\n有興趣的朋友請和我聯絡。",
+    "link": "https://www.facebook.com/taogo.com.tw/photos/a.1536703333213411.1073741828.1534383060112105/1748698818680527/?type=3",
+    "name": "淘購網taogo-淘寶購物好幫手",
+    "description": "淘購網招募前端工程師\n> \n> 月薪50K起跳，保障年薪14個月，工作地點:台北市\n> \n> 工作內容\n> 1. 將PSD轉換成前端頁面製作 \n> 2. 網站的前端建置,改版及維護 \n> 3. 協助解決網頁語法問題及版面問題 \n> 4. 開發前端模組應用\n> \n> 技能條件\n> 1.二年以上網頁開發經驗\n> 2.熟練的 CSS撰寫能力，div/tableless HTML layout\n> 3.熟練的 JavaScript 撰寫能力，並熟悉至少一種 JS framework e.g. jQuery\n> 4.熟悉各式瀏覽器及其開發者工具，並對於不同瀏覽器相容性差異及 bug 進行修正\n> 5.對於網頁效能優化有一定程度的理解\n> 6.有獨立作業的能力，也能和視覺設計師及後端工程師協同合作\n> \n> 104人力銀行職務連結\n> http://goo.gl/hoI7Sb\n> \n> 履歷請投遞\n> thank_lai@taogo.com.tw",
+    "picture": "https://scontent.xx.fbcdn.net/v/t1.0-0/s130x130/14199778_1748698818680527_7951167815336803255_n.png?oh=2f74173cb3e433f019c2f76cf6fe4ba6&oe=583CDD2B",
+    "id": "521085554595481_1069954216375276",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 18
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 0
+      }
+    },
+    "power": [
+      18,
+      18,
+      0,
+      0
+    ],
+    "order": 18
+  },
+  {
+    "shares": {
+      "count": 2
+    },
+    "created_time": "2016-09-09T20:03:14+0000",
+    "updated_time": "2016-09-10T01:55:29+0000",
+    "from": {
+      "name": "James Liang",
+      "id": "10151995304366957"
+    },
+    "message": "HTML5 Canvas2D Z-Mapping 技術教學預告\n",
+    "icon": "https://www.facebook.com/images/icons/post.gif",
+    "link": "https://www.youtube.com/watch?v=lusMWdkM9ak",
+    "name": "[主角日常] 傳說中超任遊戲地圖用到的的 z-mapping 技術 PV",
+    "description": "html canvas 是不錯玩的東西，在實作 z-mapping 前我會先把遊戲框架寫出來，讓大家製作 canvas 遊戲也能輕鬆上手，敬請期待～ 難用的createJS 就拋一邊吧 XD~",
+    "picture": "https://external.xx.fbcdn.net/safe_image.php?d=AQBwy1q3BOiyWE-o&w=130&h=130&url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FlusMWdkM9ak%2Fmaxresdefault.jpg&cfs=1",
+    "id": "521085554595481_1070376686333029",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 12
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 1
+      }
+    },
+    "power": [
+      17.5,
+      12,
+      1,
+      2
+    ],
+    "order": 19
+  },
+  {
+    "created_time": "2016-09-07T05:25:08+0000",
+    "updated_time": "2016-09-08T00:36:35+0000",
+    "from": {
+      "name": "徐光輝",
+      "id": "554613667991077"
+    },
+    "message": "請教各位前輩, 想詢問幾個RWD的觀念問題,\n\n問題1: viewport meta 標籤中 content 屬性內的width為 CSS像素(邏輯像素) or 設備像素(物理像素) ?\n\n問題2: 承接上個問題, 定義的 viewport content width 是否就是 目前 body 的 width ?\n\n問題3: 關於像素密度(DPI), 在網頁設計中有哪些地方能夠使用到這個單位 ?\n\n謝謝解答 ^_^",
+    "id": "521085554595481_1068311659872865",
+    "likes": {
+      "data": [],
+      "summary": {
+        "total_count": 3
+      }
+    },
+    "comments": {
+      "data": [],
+      "summary": {
+        "order": "chronological",
+        "total_count": 8
+      }
+    },
+    "power": [
+      15,
+      3,
+      8,
+      0
+    ],
+    "order": 20
+  }
+]
